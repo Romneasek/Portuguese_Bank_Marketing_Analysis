@@ -1,4 +1,4 @@
-# Logistic_Regression_Project
+# Portuguese_Bank_Marketing_Analysis
 
 
 Section I : Data Loading<br>
